@@ -27,9 +27,3 @@ Baruch 2022'
 
 Email :
 yhkim4573@gmail.com
-
-Projects :
-1. "Final Fight" - Unreal Engine Game (CURRENT)
-2. "Handsy" - VR Unreal Engine Game (CURRENT)
-3. "Adam" - SpeechAPI and Language Recognition (CURRENT) ⭐
-4. "Simple EEG" - Myoware Utilities (FINISHED)
